@@ -1,11 +1,4 @@
-Sitemap: ./sitemap.xml
-Sitemap: ./sitemap.rss
-
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Allow: /
 
-Sitemap: ./sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Sitemap: https://lioren.com/sitemap.xml
