@@ -1785,6 +1785,21 @@
 				max-width: none;
 			}
 
+			.full-width .site-content .entry-content {
+				box-sizing: border-box;
+				hyphens: manual;
+				margin-left: 10%;
+				margin-right: 10%;
+				max-width: none;
+				padding-left: 0;
+				padding-right: 0;
+				width: 80%;
+			}
+
+			.full-width .site-content .entry-content p {
+				max-width: none;
+			}
+
 			.heb {
 				direction: rtl;
 			}
@@ -1837,6 +1852,14 @@
 			/*.content-area {
 	padding-top: 0;
 }*/
+
+			@media screen and (max-width: 600px) {
+				.full-width .site-content .entry-content {
+					margin-left: 18px;
+					margin-right: 18px;
+					width: auto;
+				}
+			}
 		</style>
 	</head>
 
@@ -1931,19 +1954,22 @@
 								<h2 class="wp-block-heading">Selected Experience</h2>
 
 								<h3 class="wp-block-heading">Replika</h3>
-								<p><strong>CTO • Executive Team</strong></p>
-								<p>Led Replika’s transition to a next-generation AI-first platform serving 40M+ users. Built
-									the AI platform foundation, introduced multi-model architecture, rebuilt Engineering,
-									MLOps and DevOps, reduced infrastructure costs by 22%, and led technical, financial,
-									regulatory, and data diligence through company-wide restructuring.</p>
+								<p><strong>CTO</strong></p>
+								<p>Hired to transform Replika from a legacy conversational product into an AI-first platform
+									for 40M+ users. Defined the platform direction, shipped a strong alpha, built
+									multi-model routing, evaluation, guardrails, safety, and inference cost optimization,
+									rebuilt Engineering, MLOps, and DevOps, reduced infrastructure costs by 22%, and led
+									technical, regulatory, financial, and data diligence with the executive team, board, and
+									investors.</p>
 
 								<hr class="wp-block-separator has-alpha-channel-opacity">
 
 								<h3 class="wp-block-heading">LivePerson</h3>
 								<p><strong>Director of Engineering</strong></p>
-								<p>Led multiple engineering organizations building conversational AI products for Fortune 500
-									enterprises and SMBs, including AI copilots, conversation platforms, UX infrastructure, and
-									cloud-native services.</p>
+								<p>Led Fortune 500 enterprise transformation to conversational AI, including customer
+									migration and onboarding into AI-powered workflows. Managed multi-team engineering
+									groups building production conversational AI, copilots, UX infrastructure, and cloud
+									solutions adopted by major enterprise and SMB customers.</p>
 
 								<hr class="wp-block-separator has-alpha-channel-opacity">
 
