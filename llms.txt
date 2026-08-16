@@ -1,0 +1,65 @@
+# Lior Oren
+
+> Technology Executive. Building products, engineering organizations, and AI capabilities.
+
+Canonical URL: https://lioren.com/
+
+## Roles
+
+- CTO
+- Board Advisor
+- Executive Coach
+- Speaker
+
+## Summary
+
+Lior Oren is a technology executive with 20+ years of leadership experience across venture-backed startups, scale-ups, and global technology companies including Meta, Wix, LivePerson, Jimdo, Seldon Digital, and Replika.
+
+He focuses on technology strategy, product leadership, UX, organizational design, AI-native products, conversational AI, AI platforms, engineering effectiveness, enterprise modernization, and large-scale transformation.
+
+Lior has built and scaled engineering organizations from founding teams to 70+ engineers and partners with CEOs, executive teams, boards, and investors through growth, transformation, technical and financial diligence, and AI adoption.
+
+## Selected Experience
+
+### Replika
+
+CTO and executive team member. Led Replika's transition to a next-generation AI-first platform serving 40M+ users. Built the AI platform foundation, introduced multi-model architecture, rebuilt Engineering, MLOps and DevOps, reduced infrastructure costs by 22%, and led technical, financial, regulatory, and data diligence through company-wide restructuring.
+
+### LivePerson
+
+Director of Engineering. Led multiple engineering organizations building conversational AI products for Fortune 500 enterprises and SMBs, including AI copilots, conversation platforms, UX infrastructure, and cloud-native services.
+
+### Meta
+
+Engineering. Built products and engineering systems at global scale within one of the world's leading technology organizations.
+
+### Wix
+
+Engineering Leadership. Product engineering, platform development, engineering scale, and organizational growth in one of the world's leading SaaS companies.
+
+### Seldon Digital
+
+Chief Technology Officer. Led the transition to autonomous, spec-driven software delivery powered by AI agents while building the engineering organization and technology strategy.
+
+## Services
+
+- Executive advisory
+- Technology strategy
+- AI strategy
+- Organizational design
+- Engineering effectiveness
+- Product leadership
+- Executive decision making
+- Board advisory
+- Technical and financial diligence
+- Executive coaching
+- Speaking
+- Mentoring
+
+## Contact
+
+Email: linktolior@gmail.com
+Website: https://lioren.com/
+LinkedIn: https://www.linkedin.com/in/lior-oren/
+
+Personal interests: dogs, coffee, swimming, and history.
